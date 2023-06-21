@@ -219,4 +219,4 @@ function handleTriggers(disable) {
 			triggers[x].setAttribute('data-disabled', false);
 		}
 	}
-}
+} 
